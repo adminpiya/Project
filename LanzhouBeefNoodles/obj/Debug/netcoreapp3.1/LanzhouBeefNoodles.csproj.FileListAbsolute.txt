@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\LanzhouBeefNoodles\LanzhouBeefNoodles\obj\Debug\netcoreapp3.1\LanzhouBeefNoodles.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\LanzhouBeefNoodles\LanzhouBeefNoodles\obj\Debug\netcoreapp3.1\LanzhouBeefNoodles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\LanzhouBeefNoodles\LanzhouBeefNoodles\obj\Debug\netcoreapp3.1\LanzhouBeefNoodles.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\LanzhouBeefNoodles\LanzhouBeefNoodles\obj\Debug\netcoreapp3.1\LanzhouBeefNoodles.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\LanzhouBeefNoodles\LanzhouBeefNoodles\obj\Debug\netcoreapp3.1\LanzhouBeefNoodles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LanzhouBeefNoodles\LanzhouBeefNoodles\obj\Debug\netcoreapp3.1\LanzhouBeefNoodles.MvcApplicationPartsAssemblyInfo.cache
